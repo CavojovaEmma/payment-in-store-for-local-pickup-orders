@@ -39,12 +39,16 @@ OR
 REQUIREMENTS
 ------------
 
-Server
+[//]: # (Server)
 
-* WordPress 2.1+ (May work with older versions too)
-* WooCommerce 2.1.0+
-* PHP 5.6+ (Required)
-* jQuery 1.9.1+ 
+[//]: # ()
+[//]: # (* WordPress 2.1+ &#40;May work with older versions too&#41;)
+
+[//]: # (* WooCommerce 2.1.0+)
+
+[//]: # (* PHP 5.6+ &#40;Required&#41;)
+
+[//]: # (* jQuery 1.9.1+ )
 
 Browsers
 
@@ -52,22 +56,13 @@ Browsers
 * Firefox, Chrome, Safari, Opera, IE 10+
 * Tested on Firefox, Chrome
 
-DEVELOPMENT
----
-* **Customizing the WooCommerce thank-you template:** To 
-
 
 SCREENSHOTS
 ---
-1. **Customizer Product Note Settings**
-![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-15_15-28-41.jpg "Product Note Customizer Settings")
-2. **Adding product to cart with specified note**
-![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-15_15-23-40.jpg "Adding product to cart with specified note")
-3. **Editing product notes in cart**
-![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-15_15-23-43.jpg "Editing product notes in cart")
-4. **Proceeding to checkout with product notes included in the order summary**
-![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-15_15-23-45.jpg "Order summary")
-
+1. **Configuration in WP-Admin**
+![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-18_11-05-09.jpg "Configuration in WP-Admin")
+2. **Visible Only For In-Store Order Pickup Method**
+![ScreenShot](https://dev-emma-cavojova.pantheonsite.io/wp-content/uploads/2024/10/photo_2024-10-18_11-00-29.jpg "Visible Only For In-Store Order Pickup Method")
   
 
 LICENSE DETAILS
